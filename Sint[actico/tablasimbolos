@@ -1,0 +1,21 @@
+TABLA DE SÍMBOLOS
+14 entries
+
++-------+---------+------------------------------+
+|   -   |  TIPO   |        TOKEN = VALOR         |
++-------+---------+------------------------------+
+| 1     | ENTERO  |  h = 0
+| 2     | ENTERO  |  f = 0
+| 3     | ENTERO  |  i = 3
+| 4     | PALABRA |  float
+| 5     | PALABRA |  int
+| 6     | PALABRA |  return
+| 7     | PALABRA |  print
+| 8     | PALABRA |  break
+| 9     | PALABRA |  for
+| 10    | PALABRA |  while
+| 11    | PALABRA |  do
+| 12    | PALABRA |  else
+| 13    | PALABRA |  if
+| 14    | PALABRA |  main
++-------+---------+------------------------------+

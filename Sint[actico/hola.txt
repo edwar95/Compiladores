@@ -1,0 +1,13 @@
+int i ;
+int f ;
+int h ;
+main ( ) {
+i = 3 ;
+//comentario
+/*comen
+
+if ( i == f ) {
+
+i = 3 ;
+}
+}
